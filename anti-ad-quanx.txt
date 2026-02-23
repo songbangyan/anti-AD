@@ -1,7 +1,7 @@
 #TITLE=anti-AD
-#VER=20260223025850
+#VER=20260223154158
 #URL=https://github.com/privacy-protection-tools/anti-AD
-#TOTAL_LINES=105946
+#TOTAL_LINES=105945
 host-suffix,000dn.com,reject
 host-suffix,0013.cc,reject
 host-suffix,0014b04291.com,reject
@@ -74393,7 +74393,6 @@ host-suffix,bugly.qq.com,reject
 host-suffix,gdt.qq.com,reject
 host-suffix,cfg.imtt.qq.com,reject
 host-suffix,commdata.v.qq.com,reject
-host-suffix,d3g.qq.com,reject
 host-suffix,data.qq.com,reject
 host-suffix,detect.mb.qq.com,reject
 host-suffix,dp3.qq.com,reject
